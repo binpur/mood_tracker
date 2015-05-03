@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/statistic"
+        android:icon="@drawable/chart"
+        android:showAsAction="always"
+        android:title="Statistic"/>
+    
+</menu>
